@@ -1,0 +1,14 @@
+{
+  "name": "vercel-hono",
+  "scripts": {
+    "start": "vercel dev",
+    "deploy": "vercel"
+  },
+  "dependencies": {
+    "@vercel/postgres": "^0.9.0",
+    "hono": "^4.5.9"
+  },
+  "devDependencies": {
+    "vercel": "^32.4.1"
+  }
+}
